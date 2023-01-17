@@ -18,6 +18,7 @@ const pyramid = (lines) => {
 pyramid(5);
 pyramid(3);
 pyramid(10);
+pyramid(40);
 
 function func(num, operation) {
     console.log(operation(num));
